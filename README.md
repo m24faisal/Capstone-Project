@@ -1,2 +1,4 @@
 # Capstone-Project
-A link to my capstone project during the F2023-W2024 term
+Here is the link to my F2023-W2024 Computer Engineering capstone project.
+https://huggingface.co/spaces/BestCapstoneGroup/Frontend_test
+
